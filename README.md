@@ -5,8 +5,8 @@
 Pour utiliser le script Pawnshop sur votre serveur FiveM, suivez les étapes suivantes :
 
 1. Clonez le dépôt Pawnshop sur votre machine locale ou téléchargez le code source sous forme de fichier ZIP.
-2. Copiez le dossier `Pawnshop` dans le répertoire `resources` de votre serveur FiveM.
-3. Mettez à jour le fichier `server.cfg` de votre serveur pour inclure la ligne suivante : `ensure Pawnshop`.
+2. Copiez le dossier `pawnshop` dans le répertoire `resources` de votre serveur FiveM.
+3. Mettez à jour le fichier `server.cfg` de votre serveur pour inclure la ligne suivante : `ensure pawnshop`.
 4. Démarrez ou redémarrez votre serveur FiveM.
 
 ## Crédits
